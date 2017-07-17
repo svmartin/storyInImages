@@ -1,0 +1,57 @@
+/*
+
+Your styles go here!
+
+Hint! You'll probably want to start by styling:
+  * <body>
+  * <article>
+  * <h1>
+  * <img>
+
+I've left some boilerplate below for you.
+
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Bellefair');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+/* body {
+    font-family: 'Lato', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1em;
+    line-height: 2em;
+}
+
+article {
+    margin: 0 auto;
+    width: 50em;
+}
+
+h1 {
+    margin: 0 auto 1em auto;
+    font-family: 'Bellefair', serif;
+    font-size: 28px;
+    width: 800px;
+}
+
+img {
+    max-width: 100%;
+} */
+
+article {
+    margin: 0 auto;
+    max-width: 50em;
+}
+
+body {
+    font-family: sans-serif;
+    margin: 2em;
+}
+
+h1 {
+    margin: 0 auto 1em auto;
+    width: 800px;
+}
+
+img {
+    max-width: 100%;
+}
